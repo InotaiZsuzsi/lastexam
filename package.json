@@ -1,0 +1,15 @@
+{
+  "name": "lastexam",
+  "version": "1.0.0",
+  "description": "**Készíts egy oldalt, mely a megadott backenddel kommunikál, és a visszakapott adatokat megjeleníti.**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
